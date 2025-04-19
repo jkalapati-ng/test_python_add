@@ -10,6 +10,7 @@ def add_numbers(a, b):
     It can handle both integer and floating-point numbers.
     
     @note Updated to test Jenkins automation
+    @test Testing automatic build trigger
     """
     return a + b
 
