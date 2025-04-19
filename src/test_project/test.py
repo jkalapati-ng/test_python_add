@@ -8,6 +8,8 @@ def add_numbers(a, b):
     
     @details This function takes two numbers as input and returns their sum.
     It can handle both integer and floating-point numbers.
+    
+    @note Updated to test Jenkins automation
     """
     return a + b
 
