@@ -11,6 +11,9 @@ def add_numbers(a, b):
     
     @note Updated to test Jenkins automation
     @test Testing automatic build trigger
+    @example:
+        add_numbers(3, 5) returns 8
+        add_numbers(-1, 1) returns 0
     """
     return a + b
 
